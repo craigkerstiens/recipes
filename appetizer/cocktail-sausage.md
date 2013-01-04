@@ -2,9 +2,9 @@
 
 ## Ingredients
 
-3 Tbsp Apple Jelly
-1.5 Tbsp Mustard
-1 lb Kielbasa sausage
+* 3 Tbsp Apple Jelly
+* 1.5 Tbsp Mustard
+* 1 lb Kielbasa sausage
 
 ## Directions
 

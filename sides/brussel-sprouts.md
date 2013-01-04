@@ -2,10 +2,10 @@
 
 ## Ingredients
 
-Brussel Sprouts
-Olive Oil
-Salt
-Pepper
+* Brussel Sprouts
+* Olive Oil
+* Salt
+* Pepper
 
 ## Directions
 

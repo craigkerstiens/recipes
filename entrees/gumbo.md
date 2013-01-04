@@ -2,24 +2,24 @@
 
 ## Ingredients
 
-1/2 c. vegetable oil
-1/2 c. all-purpose flour
-4 stalks celery, chopped
-2 med. onions, chopped
-1 sm. green pepper, chopped
-1 sm. can tomato sauce
-1 qt. water
-1/2 tsp. dry whole thyme
-1/2 tsp. parsley flakes
-1 qt. chicken broth
-1 lbs. crab meat
-1 clove garlic, minced
-2 pkg. smoked sausage
-1 1/2 lbs. shrimp
-1 pkg. ham chunks
-4 crabs
-1 bay leaf
-Oysters (optional)
+* 1/2 c. vegetable oil
+* 1/2 c. all-purpose flour
+* 4 stalks celery, chopped
+* 2 med. onions, chopped
+* 1 sm. green pepper, chopped
+* 1 sm. can tomato sauce
+* 1 qt. water
+* 1/2 tsp. dry whole thyme
+* 1/2 tsp. parsley flakes
+* 1 qt. chicken broth
+* 1 lbs. crab meat
+* 1 clove garlic, minced
+* 2 pkg. smoked sausage
+* 1 1/2 lbs. shrimp
+* 1 pkg. ham chunks
+* 4 crabs
+* 1 bay leaf
+* Oysters (optional)
 
 ## Directions
 

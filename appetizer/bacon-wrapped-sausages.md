@@ -2,10 +2,10 @@
 
 ## Ingredients
 
-1 Package cocktail sausages
-1 package of bacon
-1 cup of brown sugar
-toothpicks
+* 1 Package cocktail sausages
+* 1 package of bacon
+* 1 cup of brown sugar
+* toothpicks
 
 ## Directions
 
