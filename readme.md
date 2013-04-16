@@ -2,7 +2,7 @@
 
 ### Entrees
 
-* [Pulled Pork](blob/master/entrees/pulled-pork.md)
+* [Pulled Pork](entrees/pulled-pork.md)
 * [Steak (Oven Broiled)](blob/master/entrees/steak-oven-broiled.md)
 * [Gumbo](blob/master/entrees/gumbo.md)
 
@@ -20,3 +20,7 @@
 
 * [Caramel Pie](blob/master/desserts/pulled-pork.md)
 * [Chocolate Icing Yellow Cake](blob/master/desserts/chocolate-icing.md)
+
+
+https://github.com/craigkerstiens/recipes/blob/master/blob/master/entrees/pulled-pork.md
+https://github.com/craigkerstiens/recipes/blob/master/entrees/pulled-pork.md
