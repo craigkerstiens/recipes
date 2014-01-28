@@ -3,24 +3,20 @@
 ### Entrees
 
 * [Pulled Pork](entrees/pulled-pork.md)
-* [Steak (Oven Broiled)](blob/master/entrees/steak-oven-broiled.md)
-* [Gumbo](blob/master/entrees/gumbo.md)
+* [Steak (Oven Broiled)](entrees/steak-oven-broiled.md)
+* [Gumbo](entrees/gumbo.md)
 
 ### Sides
 
-* [Brussel Sprouts](blob/master/sides/brussel-sprouts.md)
-* [Sauteed Corn](blob/master/sides/sauteed-corn.md)
+* [Brussel Sprouts](sides/brussel-sprouts.md)
+* [Sauteed Corn](sides/sauteed-corn.md)
 
 ### Appetizer
 
-* [Bacon Wrapped Sausages](blob/master/appetizer/bacon-wrapped-sausages.md)
-* [Cocktail Sausage](blob/master/appetizer/cocktail-sausage.md)
+* [Bacon Wrapped Sausages](appetizer/bacon-wrapped-sausages.md)
+* [Cocktail Sausage](appetizer/cocktail-sausage.md)
 
 ### Dessert
 
-* [Caramel Pie](blob/master/desserts/pulled-pork.md)
-* [Chocolate Icing Yellow Cake](blob/master/desserts/chocolate-icing.md)
-
-
-https://github.com/craigkerstiens/recipes/blob/master/blob/master/entrees/pulled-pork.md
-https://github.com/craigkerstiens/recipes/blob/master/entrees/pulled-pork.md
+* [Caramel Pie](desserts/pulled-pork.md)
+* [Chocolate Icing Yellow Cake](desserts/chocolate-icing.md)
